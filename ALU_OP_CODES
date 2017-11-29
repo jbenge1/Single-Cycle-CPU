@@ -11,8 +11,8 @@ ALUOp CODES:
 	- add
 	- addi
 	- sub
-	- addu?
-	- subu?
+	- addu
+	- subu
 	- beq
 	- lw
 	- sw
