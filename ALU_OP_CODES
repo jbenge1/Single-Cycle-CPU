@@ -1,0 +1,22 @@
+ALUOp CODES:
+
+0: AND
+	- and
+	- andi
+1: OR
+	- or
+	- ori 
+2: ADD
+	- add
+	- addi
+	- sub
+	- addu?
+	- subu?
+	- beq
+	- j
+	- lw
+	- sw
+2: LESS
+	-slt
+	-slti
+
